@@ -1,0 +1,15 @@
+.Output{
+  color:white;
+  height: 120px;
+  display: flex;
+  justify-content: flex-end;
+  margin-right:20px;
+  font-size: 30px;
+}
+
+.Output-def{
+  display: flex;
+  align-self: flex-end;
+  opacity:0.3;
+    font-size: 30px;
+}

@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.App-calc {
+  background-color: #404040;
+  width: 300px;
+  border-radius: 15px;
+  padding:10px;
+}
+
+.App-header{
+  font-family: 'comic-sans';
+}

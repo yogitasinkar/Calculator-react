@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yogitasinkar/Calculator-react/static/css/main.d27a59ef.chunk.css",
+    "main.js": "/yogitasinkar/Calculator-react/static/js/main.b9c1b9a1.chunk.js",
+    "main.js.map": "/yogitasinkar/Calculator-react/static/js/main.b9c1b9a1.chunk.js.map",
+    "runtime-main.js": "/yogitasinkar/Calculator-react/static/js/runtime-main.5d6c8457.js",
+    "runtime-main.js.map": "/yogitasinkar/Calculator-react/static/js/runtime-main.5d6c8457.js.map",
+    "static/js/2.6912228e.chunk.js": "/yogitasinkar/Calculator-react/static/js/2.6912228e.chunk.js",
+    "static/js/2.6912228e.chunk.js.map": "/yogitasinkar/Calculator-react/static/js/2.6912228e.chunk.js.map",
+    "index.html": "/yogitasinkar/Calculator-react/index.html",
+    "precache-manifest.46894c1d5b8dce3fac62795e16639bab.js": "/yogitasinkar/Calculator-react/precache-manifest.46894c1d5b8dce3fac62795e16639bab.js",
+    "service-worker.js": "/yogitasinkar/Calculator-react/service-worker.js",
+    "static/css/main.d27a59ef.chunk.css.map": "/yogitasinkar/Calculator-react/static/css/main.d27a59ef.chunk.css.map",
+    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/yogitasinkar/Calculator-react/static/js/2.6912228e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d6c8457.js",
+    "static/js/2.6912228e.chunk.js",
+    "static/css/main.d27a59ef.chunk.css",
+    "static/js/main.b9c1b9a1.chunk.js"
+  ]
+}

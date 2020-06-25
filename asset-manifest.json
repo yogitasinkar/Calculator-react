@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yogitasinkar/Calculator-react/static/css/main.d27a59ef.chunk.css",
-    "main.js": "/yogitasinkar/Calculator-react/static/js/main.b9c1b9a1.chunk.js",
-    "main.js.map": "/yogitasinkar/Calculator-react/static/js/main.b9c1b9a1.chunk.js.map",
-    "runtime-main.js": "/yogitasinkar/Calculator-react/static/js/runtime-main.5d6c8457.js",
-    "runtime-main.js.map": "/yogitasinkar/Calculator-react/static/js/runtime-main.5d6c8457.js.map",
-    "static/js/2.6912228e.chunk.js": "/yogitasinkar/Calculator-react/static/js/2.6912228e.chunk.js",
-    "static/js/2.6912228e.chunk.js.map": "/yogitasinkar/Calculator-react/static/js/2.6912228e.chunk.js.map",
-    "index.html": "/yogitasinkar/Calculator-react/index.html",
-    "precache-manifest.46894c1d5b8dce3fac62795e16639bab.js": "/yogitasinkar/Calculator-react/precache-manifest.46894c1d5b8dce3fac62795e16639bab.js",
-    "service-worker.js": "/yogitasinkar/Calculator-react/service-worker.js",
-    "static/css/main.d27a59ef.chunk.css.map": "/yogitasinkar/Calculator-react/static/css/main.d27a59ef.chunk.css.map",
-    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/yogitasinkar/Calculator-react/static/js/2.6912228e.chunk.js.LICENSE.txt"
+    "main.css": "/Calculator-react/static/css/main.d27a59ef.chunk.css",
+    "main.js": "/Calculator-react/static/js/main.0c11e918.chunk.js",
+    "main.js.map": "/Calculator-react/static/js/main.0c11e918.chunk.js.map",
+    "runtime-main.js": "/Calculator-react/static/js/runtime-main.1066e6d2.js",
+    "runtime-main.js.map": "/Calculator-react/static/js/runtime-main.1066e6d2.js.map",
+    "static/js/2.6912228e.chunk.js": "/Calculator-react/static/js/2.6912228e.chunk.js",
+    "static/js/2.6912228e.chunk.js.map": "/Calculator-react/static/js/2.6912228e.chunk.js.map",
+    "index.html": "/Calculator-react/index.html",
+    "precache-manifest.8500f3c28e2b76515e66fb3c0deb454d.js": "/Calculator-react/precache-manifest.8500f3c28e2b76515e66fb3c0deb454d.js",
+    "service-worker.js": "/Calculator-react/service-worker.js",
+    "static/css/main.d27a59ef.chunk.css.map": "/Calculator-react/static/css/main.d27a59ef.chunk.css.map",
+    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/Calculator-react/static/js/2.6912228e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d6c8457.js",
+    "static/js/runtime-main.1066e6d2.js",
     "static/js/2.6912228e.chunk.js",
     "static/css/main.d27a59ef.chunk.css",
-    "static/js/main.b9c1b9a1.chunk.js"
+    "static/js/main.0c11e918.chunk.js"
   ]
 }
